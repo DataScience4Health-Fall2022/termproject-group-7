@@ -1,10 +1,18 @@
 # TermProject - DS4H
 
-## Group 7
+### What Leads to Covid?
 
-## What Leads to Covid?
-
-## Group members:
+### Group members:
 
 - Bo Qin
 - Jinxu Guo
+
+## Repository Structure
+
+```
+.
+├── P1                                  # Folder for P1
+|   ├── baseline.ipynb                  # Code generating baseline plots
+|   └── covid_randomrowsa.csv           # Dataset
+└── README.md                           # Readme file
+```
